@@ -10,7 +10,7 @@ PSARafiki-AutoSfM is a toolkit designed to automate the Structure from Motion (S
 
 ## Requirements
 
-- **Agisoft Metashape License**: A valid license for Agisoft Metashape is required to execute the processing scripts.
+- **Agisoft Metashape**: A valid license for Agisoft Metashape is required to execute the processing scripts along with the Agisoft python package.
 - **Compute Resources**: Adequate computing power (CPU, GPU, and memory) is necessary to handle large datasets and complex processing tasks.
 - **Python 3.11**: The scripts are developed and tested using Python 3.11.
 - **Image Data**: Requires a set of overlapping images with a minimum of 75% side and front overlap for optimal 3D reconstruction.
@@ -27,7 +27,21 @@ PSARafiki-AutoSfM is a toolkit designed to automate the Structure from Motion (S
    - Place your input images in a single folder inside the project directory: `data/{project_name}/input_images`.
    - The output will be generated in `data/{project_name}/autosfm`.
 
-3. **Output**:
+3. **Running the Pipeline**:
+
+    - Once the configuration and setup are complete, you can run the SfM pipeline by executing the main script in your terminal:
+
+    ```bash
+    python main.py
+    ```
+    - This command will initiate the automated processing based on the configuration specified in conf/config.py and conf/asfm.
+
+4. **Logging and Configuration Storage**:
+
+    - During execution, log files are created to record the processing details and any potential errors. These logs are stored in the log directory.
+    - A copy of the configuration used for each run is also saved in the log directory, ensuring that you can always trace back and reproduce the exact conditions of any processing run.
+
+5. **Output**:
    - The `autosfm` directory will contain the processing results, including a PDF report and associated data products.
    - Reference files, such as estimated camera parameters for each image, are stored in `data/{project_name}/autosfm/reference/fov.csv`.
 
