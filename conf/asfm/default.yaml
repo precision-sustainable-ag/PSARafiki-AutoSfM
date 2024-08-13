@@ -1,0 +1,136 @@
+num_gpus: 2 # or specify the number of GPUs, e.g., 2
+use_masking: False
+
+check_for_asfm: True
+resize_photos: True
+add_photos_and_masks: True
+detect_markers: False
+import_references: False
+match: True
+align: True
+optimize_cameras: True
+export_gcp_camref_err: True
+build_depth: True
+build_point_cloud: True
+build_model: False
+build_dem: True
+build_ortho: True
+export_fov: True
+export_report: True
+
+downscale:
+  enabled: True
+  factor: 1
+
+match_photos:
+  downscale: 1
+  generic_preselection: True
+  reference_preselection: True
+  reference_preselection_mode: False 
+  filter_mask: ${asfm.use_masking}
+  mask_tiepoints: True
+  filter_stationary_points: False 
+  keypoint_limit: 600000
+  keypoint_limit_per_mpx: 10000
+  tiepoint_limit: 200000
+  keep_keypoints: False
+  guided_matching: False
+  reset_matches: True
+  subdivide_task: True
+  workitem_size_cameras: 20 
+  workitem_size_pairs: 80
+  max_workgroup_size: 100
+
+align_photos:
+  min_image: 2
+  adaptive_fitting: False
+  reset_alignment: True
+  subdivide_task: True 
+  
+optimize_cameras_cfg:
+  disable_ref_cam: True
+  fit_f: True
+  fit_cx: True
+  fit_cy: True
+  fit_b1: False
+  fit_b2: False
+  fit_k1: True
+  fit_k2: True
+  fit_k3: True
+  fit_k4: False
+  fit_p1: True
+  fit_p2: True
+  fit_corrections: True
+  adaptive_fitting: False
+  tiepoint_covariance: False
+
+depth_map:
+  downscale: 2
+  filter_mode: ModerateFiltering
+  reuse_depth: True
+  max_neighbors: -1
+  subdivide_task: True
+  workitem_size_cameras: 20
+  max_workgroup_size: 100
+  autosave: True
+
+point_cloud:
+  point_colors: True
+  point_confidence: False
+  keep_depth: True
+  max_neighbors: 100
+  uniform_sampling: True
+  subdivide_task: True
+  workitem_size_cameras: 20
+  max_workgroup_size: 100
+  autosave: True
+
+model:
+  enabled: True
+  surface_type: Arbitrary
+  interpolation: Extrapolated
+  face_count: LowFaceCount
+  source_data: PointCloudData
+  vertex_colors: True
+  vertex_confidence: True
+  volumetric_masks: False
+  keep_depth: True
+  trimming_radius: 0
+  subdivide_task: False
+  workitem_size_cameras: 20
+  max_workgroup_size: 100
+
+dem:
+  enabled: True
+  autosave: True
+  export: True
+  source_data: PointCloudData
+  interpolation: EnabledInterpolation
+  flip_x: False
+  flip_y: False
+  flip_z: False
+  resolution: 0
+  subdivide_task: True
+  workitem_size_tiles: 10
+  max_workgroup_size: 100
+
+ortho:
+  enabled: True
+  autosave: True
+  export: True
+  surface_data: ElevationData
+  blending_mode: MosaicBlending
+  fill_holes: True
+  ghosting_filter: False
+  cull_faces: False
+  refine_seamlines: False
+  resolution: 0
+  resolution_x: 0
+  resolution_y: 0
+  flip_x: False
+  flip_y: False
+  flip_z: False
+  subdivide_task: True
+  workitem_size_cameras: 20
+  workitem_size_tiles: 10
+  max_workgroup_size: 100

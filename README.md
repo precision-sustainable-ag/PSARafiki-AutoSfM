@@ -1,1 +1,1 @@
-# PSARafiki-AutoSfM
+# Rafiki-AutoSfM

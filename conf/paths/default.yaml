@@ -1,0 +1,45 @@
+# path to root directory
+# this relys on main.py to be run from the project root
+root_dir: ${hydra:runtime.cwd}
+
+# path to data directory
+data_dir: ${paths.root_dir}/data/
+
+
+# path to logging directory
+log_dir: ${paths.root_dir}/logs/
+
+# path to pipeline key file
+pipeline_keys: ${paths.root_dir}/keys/authorized_keys.yaml
+
+project_dir: ${paths.data_dir}/${project_name}
+
+input_images: ${paths.project_dir}/input_images
+
+## Defines output directory and file paths for the various data products
+# path to output project autosfm direcotry
+project_asfm: ${paths.project_dir}/auto_sfm
+
+# Rescaled photos and mask outputs and used as main asfm inputs
+down_photos: ${paths.project_asfm}/downscaled_photos
+down_masks: ${paths.project_asfm}/downscaled_masks
+
+# Reference directory and csv paths outputs
+refs: ${paths.project_asfm}/reference
+gcp_ref: ${paths.refs}/gcp_reference.csv
+cam_ref: ${paths.refs}/camera_reference.csv
+err_ref: ${paths.refs}/error_statistics.csv
+fov_ref: ${paths.refs}/fov.csv
+
+# Orthomosaic output
+orthodir: ${paths.project_asfm}/ortho
+ortho_path: ${paths.orthodir}/orthomosaic.tif
+
+# DEM output
+demdir: ${paths.project_asfm}/dem
+dem_path: ${paths.demdir}/dem.tif
+
+# path to output directory, created dynamically by hydra
+# path generation pattern is specified in `configs/hydra/default.yaml`
+# use it to store all files generated during the run, like ckpts and metrics
+# output_dir: ${hydra:runtime.output_dir}

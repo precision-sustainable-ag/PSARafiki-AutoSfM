@@ -1,0 +1,15 @@
+# Hydra defaults and settings. Ignore these (don't change)
+defaults:
+  - _self_
+  - hydra: default
+  - paths: default
+  - asfm: default
+
+
+project_name: "rafiki_test"
+
+metashape_key: "your_metashape_key_path"
+
+task: "autosfm_pipeline"
+
+cpu_denominator: 3
