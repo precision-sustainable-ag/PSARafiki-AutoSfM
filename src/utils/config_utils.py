@@ -22,6 +22,7 @@ def make_autosfm_dirs(cfg: DictConfig) -> None:
         cfg (DictConfig): Configuration dictionary containing directory paths.
     """
     make_dir(Path(cfg.paths.project_asfm))
+    make_dir(Path(cfg.paths.agi_project_dir))
     make_dir(Path(cfg.paths.down_photos))
     make_dir(Path(cfg.paths.down_masks))
     make_dir(Path(cfg.paths.refs))
@@ -59,6 +60,7 @@ def autosfm_present(cfg: DictConfig) -> bool:
     # Define expected output paths based on configuration
     expected_outputs = [
         Path(cfg["paths"]["project_asfm"]),
+        Path(cfg["paths"]["agi_project_dir"]),
         Path(cfg["paths"]["down_photos"]),
         Path(cfg["paths"]["cam_ref"]),
         Path(cfg["paths"]["gcp_ref"]),

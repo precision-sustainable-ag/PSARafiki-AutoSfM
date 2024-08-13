@@ -25,7 +25,7 @@ class SfM:
         self.crs = self.get_crs_str()
         self.markerbit = self.get_target_bit()
         self.metashape_key = cfg['metashape_key']
-        self.project_path = Path(self.cfg['paths']['project_asfm'], f"{self.project_name}.psx")
+        self.project_path = Path(self.cfg['paths']['agi_project_dir'], f"{self.project_name}.psx")
         self.doc = self.load_or_create_project()
     
         self.num_gpus = (

@@ -20,6 +20,9 @@ input_images: ${paths.project_dir}/input_images
 # path to output project autosfm direcotry
 project_asfm: ${paths.project_dir}/auto_sfm
 
+# Agisoft project file where the processing steps are saved
+agi_project_dir: ${paths.project_asfm}/project
+
 # Rescaled photos and mask outputs and used as main asfm inputs
 down_photos: ${paths.project_asfm}/downscaled_photos
 down_masks: ${paths.project_asfm}/downscaled_masks
