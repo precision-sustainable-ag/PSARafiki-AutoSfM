@@ -49,3 +49,17 @@ PSARafiki-AutoSfM is a toolkit designed to automate the Structure from Motion (S
 
 - **Image Overlap**: High amounts of image overlap (at least 75% side and front) are absolutely essential for successful reconstruction. Insufficient overlap or highly homogeneous ground surfaces can make the reconstruction process difficult or even impossible.
 - **Image Quality**: Ensure that the images are clear and well-exposed. Poor image quality can negatively impact the accuracy of the 3D reconstruction.
+
+
+### SfM data products of a single plot
+- taken with an iphone 12
+- made up of 80 images
+
+#### Orthomosaic
+![](./assets/overview.png)
+
+#### Digital Elevation Model
+![](./assets/dem_overview.png)
+
+#### Excess Green Vegetation Index
+![](./assets/exg_overview.png)

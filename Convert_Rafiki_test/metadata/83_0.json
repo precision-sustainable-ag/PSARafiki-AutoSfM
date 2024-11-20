@@ -1,0 +1,2800 @@
+{
+    "status": "success",
+    "info": "Successfully fetched plot 0",
+    "collections": {
+        "83": {
+            "start_time": "2024-08-16T08:47:47.819",
+            "end_time": "2024-08-16T08:48:44.998",
+            "number_of_images": 798
+        }
+    },
+    "images": [
+        
+        {
+            "timestamp": "2024-08-16T08:48:05.823",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798085.6703372,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:05.823_rgb8.bmp",
+            "location": [
+                -3.364479642981261,
+                36.63541090348633
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:05.823_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:06.407",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798086.2714517,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:06.407_rgb8.bmp",
+            "location": [
+                -3.3644796245255804,
+                36.63541082673141
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:06.407_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:06.444",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798086.2714517,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:06.444_rgb8.bmp",
+            "location": [
+                -3.3644796245255804,
+                36.63541082673141
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:06.444_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:06.307",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798086.0698876,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:06.307_rgb8.bmp",
+            "location": [
+                -3.3644796172569533,
+                36.63541083572194
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:06.307_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:06.583",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798086.4703295,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:06.583_rgb8.bmp",
+            "location": [
+                -3.364479616359762,
+                36.63541082812786
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:06.583_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:06.654",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798086.4703295,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:06.654_rgb8.bmp",
+            "location": [
+                -3.364479616359762,
+                36.63541082812786
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:06.654_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:07.050",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798086.8700018,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:07.050_rgb8.bmp",
+            "location": [
+                -3.364479600797898,
+                36.635410812989804
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:07.050_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:07.539",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798087.4703605,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:07.539_rgb8.bmp",
+            "location": [
+                -3.3644794902233426,
+                36.63541081170552
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:07.539_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:07.485",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798087.270457,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:07.485_rgb8.bmp",
+            "location": [
+                -3.364479543851428,
+                36.6354108073284
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:07.485_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:07.567",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798087.4703605,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:07.567_rgb8.bmp",
+            "location": [
+                -3.3644794902233426,
+                36.63541081170552
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:07.567_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:07.768",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798087.6703243,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:07.768_rgb8.bmp",
+            "location": [
+                -3.364479435354773,
+                36.63541084553576
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:07.768_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:07.691",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798087.4703605,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:07.691_rgb8.bmp",
+            "location": [
+                -3.3644794902233426,
+                36.63541081170552
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:07.691_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:08.231",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798088.0706635,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:08.231_rgb8.bmp",
+            "location": [
+                -3.3644791503565585,
+                36.63541086293019
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:08.231_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:08.634",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798088.4706118,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:08.634_rgb8.bmp",
+            "location": [
+                -3.364478087190505,
+                36.63541071560714
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:08.634_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:08.744",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798088.4706118,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:08.744_rgb8.bmp",
+            "location": [
+                -3.364478087190505,
+                36.63541071560714
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:08.744_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:08.682",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798088.4706118,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:08.682_rgb8.bmp",
+            "location": [
+                -3.364478087190505,
+                36.63541071560714
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:08.682_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:08.842",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798088.6700726,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:08.842_rgb8.bmp",
+            "location": [
+                -3.364477419590639,
+                36.63541064420841
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:08.842_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:08.873",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798088.6700726,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:08.873_rgb8.bmp",
+            "location": [
+                -3.364477419590639,
+                36.63541064420841
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:08.873_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:09.388",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798089.270333,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:09.388_rgb8.bmp",
+            "location": [
+                -3.3644770115911142,
+                36.635410844797256
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:09.388_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:09.875",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798089.6700299,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:09.875_rgb8.bmp",
+            "location": [
+                -3.3644780113625434,
+                36.635410874432765
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:09.875_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:09.911",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798089.6700299,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:09.911_rgb8.bmp",
+            "location": [
+                -3.3644780113625434,
+                36.635410874432765
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:09.911_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:10.025",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798089.869921,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:10.025_rgb8.bmp",
+            "location": [
+                -3.3644786808463634,
+                36.63541068251011
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:10.025_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:10.084",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798089.869921,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:10.084_rgb8.bmp",
+            "location": [
+                -3.3644786808463634,
+                36.63541068251011
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:10.084_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:10.093",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798089.869921,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:10.093_rgb8.bmp",
+            "location": [
+                -3.3644786808463634,
+                36.63541068251011
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:10.093_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:10.552",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798090.2713242,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:10.552_rgb8.bmp",
+            "location": [
+                -3.3644802576338564,
+                36.63541039813647
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:10.552_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:10.999",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798090.8707206,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:10.999_rgb8.bmp",
+            "location": [
+                -3.364483819640958,
+                36.63541026381204
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:10.999_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:11.028",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798090.8707206,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:11.028_rgb8.bmp",
+            "location": [
+                -3.364483819640958,
+                36.63541026381204
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:11.028_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:11.173",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798091.0706367,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:11.173_rgb8.bmp",
+            "location": [
+                -3.364485015355766,
+                36.63541017057852
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:11.173_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:11.193",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798090.8707206,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:11.193_rgb8.bmp",
+            "location": [
+                -3.364483819640958,
+                36.63541026381204
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:11.193_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:11.236",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798091.0706367,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:11.236_rgb8.bmp",
+            "location": [
+                -3.364485015355766,
+                36.63541017057852
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:11.236_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:11.962",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798091.8702056,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:11.962_rgb8.bmp",
+            "location": [
+                -3.3644875753938694,
+                36.635410387392064
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:11.962_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:12.085",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798091.8702056,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:12.085_rgb8.bmp",
+            "location": [
+                -3.3644875753938694,
+                36.635410387392064
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:12.085_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:12.216",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798092.0706127,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:12.216_rgb8.bmp",
+            "location": [
+                -3.3644879706009947,
+                36.6354104561652
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:12.216_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:12.322",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798092.0706127,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:12.322_rgb8.bmp",
+            "location": [
+                -3.3644879706009947,
+                36.6354104561652
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:12.322_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:12.282",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798092.0706127,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:12.282_rgb8.bmp",
+            "location": [
+                -3.3644879706009947,
+                36.6354104561652
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:12.282_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:12.370",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798092.270142,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:12.370_rgb8.bmp",
+            "location": [
+                -3.364487955669277,
+                36.63541043271471
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:12.370_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:13.073",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798092.870588,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:13.073_rgb8.bmp",
+            "location": [
+                -3.364488732806547,
+                36.635410323796606
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:13.073_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:13.440",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798093.2703042,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:13.440_rgb8.bmp",
+            "location": [
+                -3.3644905933860576,
+                36.63541001556994
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:13.440_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:13.279",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798093.070369,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:13.279_rgb8.bmp",
+            "location": [
+                -3.3644893530763786,
+                36.63541026154077
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:13.279_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:13.598",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798093.4708695,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:13.598_rgb8.bmp",
+            "location": [
+                -3.3644921504466883,
+                36.635409797144376
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:13.598_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:13.606",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798093.4708695,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:13.606_rgb8.bmp",
+            "location": [
+                -3.3644921504466883,
+                36.635409797144376
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:13.606_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:13.603",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798093.4708695,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:13.603_rgb8.bmp",
+            "location": [
+                -3.3644921504466883,
+                36.635409797144376
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:13.603_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:14.230",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798094.0705078,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:14.230_rgb8.bmp",
+            "location": [
+                -3.3644949919675193,
+                36.63540955662283
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:14.230_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:14.564",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798094.2702737,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:14.564_rgb8.bmp",
+            "location": [
+                -3.3644959497014524,
+                36.63540957860016
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:14.564_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:14.592",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798094.4699543,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:14.592_rgb8.bmp",
+            "location": [
+                -3.3644969446688004,
+                36.63540954097116
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:14.592_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:14.701",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798094.4699543,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:14.701_rgb8.bmp",
+            "location": [
+                -3.3644969446688004,
+                36.63540954097116
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:14.701_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:14.705",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798094.4699543,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:14.705_rgb8.bmp",
+            "location": [
+                -3.3644969446688004,
+                36.63540954097116
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:14.705_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:14.698",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798094.4699543,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:14.698_rgb8.bmp",
+            "location": [
+                -3.3644969446688004,
+                36.63540954097116
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:14.698_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:15.515",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798095.2703152,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:15.515_rgb8.bmp",
+            "location": [
+                -3.3645003745995776,
+                36.635409144623054
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:15.515_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:15.688",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798095.470402,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:15.688_rgb8.bmp",
+            "location": [
+                -3.364501319278916,
+                36.63540910757867
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:15.688_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:15.705",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798095.470402,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:15.705_rgb8.bmp",
+            "location": [
+                -3.364501319278916,
+                36.63540910757867
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:15.705_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:15.786",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798095.670542,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:15.786_rgb8.bmp",
+            "location": [
+                -3.3645024180913157,
+                36.63540905481257
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:15.786_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:15.880",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798095.670542,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:15.880_rgb8.bmp",
+            "location": [
+                -3.3645024180913157,
+                36.63540905481257
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:15.880_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:15.870",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798095.670542,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:15.870_rgb8.bmp",
+            "location": [
+                -3.3645024180913157,
+                36.63540905481257
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:15.870_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:16.800",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798096.67013,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:16.800_rgb8.bmp",
+            "location": [
+                -3.3645085214830135,
+                36.635408309683285
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:16.800_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:16.867",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798096.67013,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:16.867_rgb8.bmp",
+            "location": [
+                -3.3645085214830135,
+                36.635408309683285
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:16.867_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:16.834",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798096.67013,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:16.834_rgb8.bmp",
+            "location": [
+                -3.3645085214830135,
+                36.635408309683285
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:16.834_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:16.930",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798096.67013,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:16.930_rgb8.bmp",
+            "location": [
+                -3.3645085214830135,
+                36.635408309683285
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:16.930_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:17.036",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798096.8700318,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:17.036_rgb8.bmp",
+            "location": [
+                -3.364509871740342,
+                36.63540822052378
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:17.036_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:17.050",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798096.8700318,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:17.050_rgb8.bmp",
+            "location": [
+                -3.364509871740342,
+                36.63540822052378
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:17.050_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:17.951",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798097.6699054,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:17.951_rgb8.bmp",
+            "location": [
+                -3.3645145917598502,
+                36.63540804199951
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:17.951_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:18.066",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798097.8698938,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:18.066_rgb8.bmp",
+            "location": [
+                -3.3645156356200654,
+                36.63540800738781
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:18.066_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:17.962",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798097.8698938,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:17.962_rgb8.bmp",
+            "location": [
+                -3.3645156356200654,
+                36.63540800738781
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:17.962_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:18.160",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798097.8698938,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:18.160_rgb8.bmp",
+            "location": [
+                -3.3645156356200654,
+                36.63540800738781
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:18.160_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:18.241",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798098.0704255,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:18.241_rgb8.bmp",
+            "location": [
+                -3.3645163905926188,
+                36.635407966475526
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:18.241_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:18.314",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798098.0704255,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:18.314_rgb8.bmp",
+            "location": [
+                -3.3645163905926188,
+                36.635407966475526
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:18.314_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:19.083",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798098.8705733,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:19.083_rgb8.bmp",
+            "location": [
+                -3.3645185280983556,
+                36.63540650004724
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:19.083_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:19.220",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798099.0703332,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:19.220_rgb8.bmp",
+            "location": [
+                -3.3645184622363327,
+                36.63540631227143
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:19.220_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:19.269",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798099.0703332,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:19.269_rgb8.bmp",
+            "location": [
+                -3.3645184622363327,
+                36.63540631227143
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:19.269_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:19.326",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798099.0703332,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:19.326_rgb8.bmp",
+            "location": [
+                -3.3645184622363327,
+                36.63540631227143
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:19.326_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:19.366",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798099.2702167,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:19.366_rgb8.bmp",
+            "location": [
+                -3.3645180403484516,
+                36.63540627481902
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:19.366_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:19.426",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798099.2702167,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:19.426_rgb8.bmp",
+            "location": [
+                -3.3645180403484516,
+                36.63540627481902
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:19.426_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:20.307",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798100.0704033,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:20.307_rgb8.bmp",
+            "location": [
+                -3.3645159782331753,
+                36.635405389584456
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:20.307_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:20.421",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798100.2708018,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:20.421_rgb8.bmp",
+            "location": [
+                -3.3645159673816063,
+                36.63540547675485
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:20.421_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:20.462",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798100.2708018,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:20.462_rgb8.bmp",
+            "location": [
+                -3.3645159673816063,
+                36.63540547675485
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:20.462_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:20.487",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798100.2708018,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:20.487_rgb8.bmp",
+            "location": [
+                -3.3645159673816063,
+                36.63540547675485
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:20.487_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:20.493",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798100.2708018,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:20.493_rgb8.bmp",
+            "location": [
+                -3.3645159673816063,
+                36.63540547675485
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:20.493_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:20.581",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798100.4703665,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:20.581_rgb8.bmp",
+            "location": [
+                -3.3645157903863607,
+                36.63540532977038
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:20.581_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:21.465",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798101.2707386,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:21.465_rgb8.bmp",
+            "location": [
+                -3.3645136180718875,
+                36.6354052266864
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:21.465_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:21.572",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798101.2707386,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:21.572_rgb8.bmp",
+            "location": [
+                -3.3645136180718875,
+                36.6354052266864
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:21.572_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:21.571",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798101.4703493,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:21.571_rgb8.bmp",
+            "location": [
+                -3.364512485629319,
+                36.635405101231235
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:21.571_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:21.632",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798101.4703493,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:21.632_rgb8.bmp",
+            "location": [
+                -3.364512485629319,
+                36.635405101231235
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:21.632_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:21.690",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798101.4703493,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:21.690_rgb8.bmp",
+            "location": [
+                -3.364512485629319,
+                36.635405101231235
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:21.690_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:21.744",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798101.4703493,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:21.744_rgb8.bmp",
+            "location": [
+                -3.364512485629319,
+                36.635405101231235
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:21.744_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:22.598",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798102.470383,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:22.598_rgb8.bmp",
+            "location": [
+                -3.3645074930638748,
+                36.635405555212465
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:22.598_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:22.796",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798102.6706705,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:22.796_rgb8.bmp",
+            "location": [
+                -3.364506522041896,
+                36.63540571278361
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:22.796_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:22.810",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798102.6706705,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:22.810_rgb8.bmp",
+            "location": [
+                -3.364506522041896,
+                36.63540571278361
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:22.810_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:22.936",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798102.6706705,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:22.936_rgb8.bmp",
+            "location": [
+                -3.364506522041896,
+                36.63540571278361
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:22.936_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:22.898",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798102.6706705,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:22.898_rgb8.bmp",
+            "location": [
+                -3.364506522041896,
+                36.63540571278361
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:22.898_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:23.013",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798102.8705926,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:23.013_rgb8.bmp",
+            "location": [
+                -3.364505347574459,
+                36.635405841691416
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:23.013_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:23.740",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798103.4697764,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:23.740_rgb8.bmp",
+            "location": [
+                -3.364501610753824,
+                36.63540634444547
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:23.740_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:23.925",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798103.6712637,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:23.925_rgb8.bmp",
+            "location": [
+                -3.364500218414346,
+                36.63540651567502
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:23.925_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:23.932",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798103.8703022,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:23.932_rgb8.bmp",
+            "location": [
+                -3.3644987846223153,
+                36.635406696672895
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:23.932_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:24.049",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798103.8703022,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:24.049_rgb8.bmp",
+            "location": [
+                -3.3644987846223153,
+                36.635406696672895
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:24.049_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:24.189",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798103.8703022,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:24.189_rgb8.bmp",
+            "location": [
+                -3.3644987846223153,
+                36.635406696672895
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:24.189_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:24.175",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798103.8703022,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:24.175_rgb8.bmp",
+            "location": [
+                -3.3644987846223153,
+                36.635406696672895
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:24.175_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:24.920",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798104.6705546,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:24.920_rgb8.bmp",
+            "location": [
+                -3.364492584927953,
+                36.63540708680732
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:24.920_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:25.065",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798104.8702588,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:25.065_rgb8.bmp",
+            "location": [
+                -3.3644912125214077,
+                36.63540726085935
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:25.065_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:25.135",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798104.8702588,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:25.135_rgb8.bmp",
+            "location": [
+                -3.3644912125214077,
+                36.63540726085935
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:25.135_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:25.361",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798105.070147,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:25.361_rgb8.bmp",
+            "location": [
+                -3.3644900037862575,
+                36.63540740343827
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:25.361_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:25.266",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798105.070147,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:25.266_rgb8.bmp",
+            "location": [
+                -3.3644900037862575,
+                36.63540740343827
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:25.266_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:25.330",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798105.070147,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:25.330_rgb8.bmp",
+            "location": [
+                -3.3644900037862575,
+                36.63540740343827
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:25.330_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:26.143",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798105.8702226,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:26.143_rgb8.bmp",
+            "location": [
+                -3.3644857417647187,
+                36.635407888026684
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:26.143_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:26.302",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798106.0701358,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:26.302_rgb8.bmp",
+            "location": [
+                -3.364485000156412,
+                36.63540809846352
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:26.302_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:26.319",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798106.0701358,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:26.319_rgb8.bmp",
+            "location": [
+                -3.364485000156412,
+                36.63540809846352
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:26.319_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:26.543",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798106.270027,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:26.543_rgb8.bmp",
+            "location": [
+                -3.364483801333051,
+                36.635408312619894
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:26.543_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:26.524",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798106.270027,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:26.524_rgb8.bmp",
+            "location": [
+                -3.364483801333051,
+                36.635408312619894
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:26.524_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:26.593",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798106.270027,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:26.593_rgb8.bmp",
+            "location": [
+                -3.364483801333051,
+                36.635408312619894
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:26.593_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:27.287",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798107.0698836,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:27.287_rgb8.bmp",
+            "location": [
+                -3.3644800034518854,
+                36.63540858426693
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:27.287_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:27.440",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798107.269845,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:27.440_rgb8.bmp",
+            "location": [
+                -3.3644793934144253,
+                36.63540878262995
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:27.440_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:27.495",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798107.269845,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:27.495_rgb8.bmp",
+            "location": [
+                -3.3644793934144253,
+                36.63540878262995
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:27.495_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:27.661",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798107.470465,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:27.661_rgb8.bmp",
+            "location": [
+                -3.3644787107869294,
+                36.63540895814234
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:27.661_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:27.732",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798107.470465,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:27.732_rgb8.bmp",
+            "location": [
+                -3.3644787107869294,
+                36.63540895814234
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:27.732_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:27.714",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798107.470465,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:27.714_rgb8.bmp",
+            "location": [
+                -3.3644787107869294,
+                36.63540895814234
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:27.714_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:28.516",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798108.2705202,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:28.516_rgb8.bmp",
+            "location": [
+                -3.3644748307543826,
+                36.635406594772064
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:28.516_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:28.652",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798108.471029,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:28.652_rgb8.bmp",
+            "location": [
+                -3.3644747531564203,
+                36.63540570378483
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:28.652_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:28.604",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798108.471029,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:28.604_rgb8.bmp",
+            "location": [
+                -3.3644747531564203,
+                36.63540570378483
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:28.604_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:28.797",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798108.6704044,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:28.797_rgb8.bmp",
+            "location": [
+                -3.3644750703197026,
+                36.63540519942962
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:28.797_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:28.860",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798108.6704044,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:28.860_rgb8.bmp",
+            "location": [
+                -3.3644750703197026,
+                36.63540519942962
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:28.860_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:28.915",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798108.6704044,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:28.915_rgb8.bmp",
+            "location": [
+                -3.3644750703197026,
+                36.63540519942962
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:28.915_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:29.782",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798109.6705306,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:29.782_rgb8.bmp",
+            "location": [
+                -3.364479329200161,
+                36.63540559943803
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:29.782_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:29.812",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798109.6705306,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:29.812_rgb8.bmp",
+            "location": [
+                -3.364479329200161,
+                36.63540559943803
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:29.812_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:29.826",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798109.6705306,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:29.826_rgb8.bmp",
+            "location": [
+                -3.364479329200161,
+                36.63540559943803
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:29.826_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:29.950",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798109.8702557,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:29.950_rgb8.bmp",
+            "location": [
+                -3.36447964540643,
+                36.635406004474156
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:29.950_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:29.972",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798109.8702557,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:29.972_rgb8.bmp",
+            "location": [
+                -3.36447964540643,
+                36.635406004474156
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:29.972_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:30.016",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798109.8702557,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:30.016_rgb8.bmp",
+            "location": [
+                -3.36447964540643,
+                36.635406004474156
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:30.016_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:30.936",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798110.6703522,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:30.936_rgb8.bmp",
+            "location": [
+                -3.364482963327511,
+                36.63540504975816
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:30.936_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:30.997",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798110.8701918,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:30.997_rgb8.bmp",
+            "location": [
+                -3.364484228592335,
+                36.63540463577964
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:30.997_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:31.126",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798110.8701918,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:31.126_rgb8.bmp",
+            "location": [
+                -3.364484228592335,
+                36.63540463577964
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:31.126_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:31.138",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798110.8701918,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:31.138_rgb8.bmp",
+            "location": [
+                -3.364484228592335,
+                36.63540463577964
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:31.138_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:31.214",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798111.0701694,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:31.214_rgb8.bmp",
+            "location": [
+                -3.364485480092844,
+                36.63540415238907
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:31.214_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:31.200",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798111.0701694,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:31.200_rgb8.bmp",
+            "location": [
+                -3.364485480092844,
+                36.63540415238907
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:31.200_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:32.070",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798111.8701048,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:32.070_rgb8.bmp",
+            "location": [
+                -3.364491491208709,
+                36.635402531133245
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:32.070_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:32.237",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798112.0704865,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:32.237_rgb8.bmp",
+            "location": [
+                -3.364493001865976,
+                36.6354022252844
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:32.237_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:32.274",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798112.0704865,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:32.274_rgb8.bmp",
+            "location": [
+                -3.364493001865976,
+                36.6354022252844
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:32.274_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:32.346",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798112.0704865,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:32.346_rgb8.bmp",
+            "location": [
+                -3.364493001865976,
+                36.6354022252844
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:32.346_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:32.125",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798111.8701048,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:32.125_rgb8.bmp",
+            "location": [
+                -3.364491491208709,
+                36.635402531133245
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:32.125_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:32.365",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798112.0704865,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:32.365_rgb8.bmp",
+            "location": [
+                -3.364493001865976,
+                36.6354022252844
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:32.365_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:33.289",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798113.0702178,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:33.289_rgb8.bmp",
+            "location": [
+                -3.364500185208371,
+                36.63540107701917
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:33.289_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:33.383",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798113.2699249,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:33.383_rgb8.bmp",
+            "location": [
+                -3.364501644087181,
+                36.635400887023216
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:33.383_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:33.482",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798113.2699249,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:33.482_rgb8.bmp",
+            "location": [
+                -3.364501644087181,
+                36.635400887023216
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:33.482_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:33.409",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798113.2699249,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:33.409_rgb8.bmp",
+            "location": [
+                -3.364501644087181,
+                36.635400887023216
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:33.409_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:33.565",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798113.470587,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:33.565_rgb8.bmp",
+            "location": [
+                -3.3645031402705086,
+                36.63540047961415
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:33.565_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:33.436",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798113.2699249,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:33.436_rgb8.bmp",
+            "location": [
+                -3.364501644087181,
+                36.635400887023216
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:33.436_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:34.447",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798114.270316,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:34.447_rgb8.bmp",
+            "location": [
+                -3.3645089281230938,
+                36.63539993208038
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:34.447_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:34.634",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798114.4703205,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:34.634_rgb8.bmp",
+            "location": [
+                -3.364510098986233,
+                36.63539936432689
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:34.634_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:34.631",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798114.4703205,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:34.631_rgb8.bmp",
+            "location": [
+                -3.364510098986233,
+                36.63539936432689
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:34.631_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:34.593",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798114.270316,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:34.593_rgb8.bmp",
+            "location": [
+                -3.3645089281230938,
+                36.63539993208038
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:34.593_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:34.741",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798114.6702826,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:34.741_rgb8.bmp",
+            "location": [
+                -3.364510739576757,
+                36.63539870523281
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:34.741_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:34.680",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798114.4703205,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:34.680_rgb8.bmp",
+            "location": [
+                -3.364510098986233,
+                36.63539936432689
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:34.680_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:35.548",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798115.4700465,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:35.548_rgb8.bmp",
+            "location": [
+                -3.3645107093749145,
+                36.63539729258212
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:35.548_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:35.809",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798115.6702266,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:35.809_rgb8.bmp",
+            "location": [
+                -3.3645103333034636,
+                36.635397354758815
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:35.809_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:35.900",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798115.6702266,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:35.900_rgb8.bmp",
+            "location": [
+                -3.3645103333034636,
+                36.635397354758815
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:35.900_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:35.896",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798115.6702266,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:35.896_rgb8.bmp",
+            "location": [
+                -3.3645103333034636,
+                36.635397354758815
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:35.896_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:35.940",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798115.6702266,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:35.940_rgb8.bmp",
+            "location": [
+                -3.3645103333034636,
+                36.635397354758815
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:35.940_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:35.954",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798115.6702266,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:35.954_rgb8.bmp",
+            "location": [
+                -3.3645103333034636,
+                36.635397354758815
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:35.954_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:36.770",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798116.470464,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:36.770_rgb8.bmp",
+            "location": [
+                -3.3645104665348082,
+                36.635397932449834
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:36.770_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:37.027",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798116.8699713,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:37.027_rgb8.bmp",
+            "location": [
+                -3.364509342479513,
+                36.635398314736996
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:37.027_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:36.996",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798116.8699713,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:36.996_rgb8.bmp",
+            "location": [
+                -3.364509342479513,
+                36.635398314736996
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:36.996_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:36.980",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798116.8699713,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:36.980_rgb8.bmp",
+            "location": [
+                -3.364509342479513,
+                36.635398314736996
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:36.980_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:37.104",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798116.8699713,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:37.104_rgb8.bmp",
+            "location": [
+                -3.364509342479513,
+                36.635398314736996
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:37.104_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:37.144",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798116.8699713,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:37.144_rgb8.bmp",
+            "location": [
+                -3.364509342479513,
+                36.635398314736996
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:37.144_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:37.862",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798117.670135,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:37.862_rgb8.bmp",
+            "location": [
+                -3.364507467520494,
+                36.63539865197048
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:37.862_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:38.180",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798117.86996,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:38.180_rgb8.bmp",
+            "location": [
+                -3.364506703880658,
+                36.63539873596215
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:38.180_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:38.256",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798118.069696,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:38.256_rgb8.bmp",
+            "location": [
+                -3.3645058753219073,
+                36.635398790081496
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:38.256_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:38.182",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798117.86996,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:38.182_rgb8.bmp",
+            "location": [
+                -3.364506703880658,
+                36.63539873596215
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:38.182_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:38.158",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798117.86996,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:38.158_rgb8.bmp",
+            "location": [
+                -3.364506703880658,
+                36.63539873596215
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:38.158_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:38.289",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798118.069696,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:38.289_rgb8.bmp",
+            "location": [
+                -3.3645058753219073,
+                36.635398790081496
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:38.289_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:38.957",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798118.8699007,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:38.957_rgb8.bmp",
+            "location": [
+                -3.364501325982217,
+                36.63539952421353
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:38.957_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:39.438",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798119.270541,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:39.438_rgb8.bmp",
+            "location": [
+                -3.3644992806994223,
+                36.635399747887824
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:39.438_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:39.439",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798119.270541,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:39.439_rgb8.bmp",
+            "location": [
+                -3.3644992806994223,
+                36.635399747887824
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:39.439_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:39.443",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798119.270541,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:39.443_rgb8.bmp",
+            "location": [
+                -3.3644992806994223,
+                36.635399747887824
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:39.443_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:39.490",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798119.270541,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:39.490_rgb8.bmp",
+            "location": [
+                -3.3644992806994223,
+                36.635399747887824
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:39.490_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:39.437",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798119.270541,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:39.437_rgb8.bmp",
+            "location": [
+                -3.3644992806994223,
+                36.635399747887824
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:39.437_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:40.169",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798120.0704005,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:40.169_rgb8.bmp",
+            "location": [
+                -3.364494334700624,
+                36.63539970789069
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:40.169_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:40.548",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798120.270365,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:40.548_rgb8.bmp",
+            "location": [
+                -3.3644930718075785,
+                36.63539991790951
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:40.548_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:40.590",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798120.270365,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:40.590_rgb8.bmp",
+            "location": [
+                -3.3644930718075785,
+                36.63539991790951
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:40.590_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:40.562",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798120.270365,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:40.562_rgb8.bmp",
+            "location": [
+                -3.3644930718075785,
+                36.63539991790951
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:40.562_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:40.642",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798120.470172,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:40.642_rgb8.bmp",
+            "location": [
+                -3.364491600997427,
+                36.63540023730492
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:40.642_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:40.683",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798120.470172,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:40.683_rgb8.bmp",
+            "location": [
+                -3.364491600997427,
+                36.63540023730492
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:40.683_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:41.437",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798121.2700558,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:41.437_rgb8.bmp",
+            "location": [
+                -3.3644864000642705,
+                36.635401258042876
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:41.437_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:41.741",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798121.4699616,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:41.741_rgb8.bmp",
+            "location": [
+                -3.3644847963297226,
+                36.635401432270385
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:41.741_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:41.742",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798121.4699616,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:41.742_rgb8.bmp",
+            "location": [
+                -3.3644847963297226,
+                36.635401432270385
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:41.742_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:41.652",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798121.4699616,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:41.652_rgb8.bmp",
+            "location": [
+                -3.3644847963297226,
+                36.635401432270385
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:41.652_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:41.825",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798121.4699616,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:41.825_rgb8.bmp",
+            "location": [
+                -3.3644847963297226,
+                36.635401432270385
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:41.825_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:41.849",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798121.6699443,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:41.849_rgb8.bmp",
+            "location": [
+                -3.364483207500075,
+                36.635401578047095
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:41.849_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:42.553",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798122.2701259,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:42.553_rgb8.bmp",
+            "location": [
+                -3.3644798885938187,
+                36.63540207969192
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:42.553_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:42.847",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798122.6702116,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:42.847_rgb8.bmp",
+            "location": [
+                -3.364477879868665,
+                36.6354020687816
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:42.847_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:42.960",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798122.870567,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:42.960_rgb8.bmp",
+            "location": [
+                -3.364477376345195,
+                36.6354021209146
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:42.960_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:42.892",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798122.6702116,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:42.892_rgb8.bmp",
+            "location": [
+                -3.364477879868665,
+                36.6354020687816
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:42.892_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:43.023",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798122.870567,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:43.023_rgb8.bmp",
+            "location": [
+                -3.364477376345195,
+                36.6354021209146
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:43.023_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:43.049",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798122.870567,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:43.049_rgb8.bmp",
+            "location": [
+                -3.364477376345195,
+                36.6354021209146
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:43.049_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:43.713",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798123.4701111,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:43.713_rgb8.bmp",
+            "location": [
+                -3.364477096259454,
+                36.63540230888713
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:43.713_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:44.073",
+            "log_type": "IMAGE",
+            "camera": "camera_3",
+            "image_ts": 1723798123.8705082,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_3_2024-08-16.tar.gz/camera_3_2024-08-16T08:48:44.073_rgb8.bmp",
+            "location": [
+                -3.3644772025479845,
+                36.63540214845105
+            ],
+            "aruco_detected": 987,
+            "name": "camera_3_2024-08-16T08:48:44.073_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:44.073",
+            "log_type": "IMAGE",
+            "camera": "camera_2",
+            "image_ts": 1723798123.8705082,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_2_2024-08-16.tar.gz/camera_2_2024-08-16T08:48:44.073_rgb8.bmp",
+            "location": [
+                -3.3644772025479845,
+                36.63540214845105
+            ],
+            "aruco_detected": 987,
+            "name": "camera_2_2024-08-16T08:48:44.073_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:44.167",
+            "log_type": "IMAGE",
+            "camera": "camera_6",
+            "image_ts": 1723798123.8705082,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_6_2024-08-16.tar.gz/camera_6_2024-08-16T08:48:44.167_rgb8.bmp",
+            "location": [
+                -3.3644772025479845,
+                36.63540214845105
+            ],
+            "aruco_detected": 987,
+            "name": "camera_6_2024-08-16T08:48:44.167_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:44.301",
+            "log_type": "IMAGE",
+            "camera": "camera_4",
+            "image_ts": 1723798124.0701187,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_4_2024-08-16.tar.gz/camera_4_2024-08-16T08:48:44.301_rgb8.bmp",
+            "location": [
+                -3.3644772406991184,
+                36.635402170826744
+            ],
+            "aruco_detected": 987,
+            "name": "camera_4_2024-08-16T08:48:44.301_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:44.343",
+            "log_type": "IMAGE",
+            "camera": "camera_5",
+            "image_ts": 1723798124.0701187,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_5_2024-08-16.tar.gz/camera_5_2024-08-16T08:48:44.343_rgb8.bmp",
+            "location": [
+                -3.3644772406991184,
+                36.635402170826744
+            ],
+            "aruco_detected": 987,
+            "name": "camera_5_2024-08-16T08:48:44.343_rgb8.bmp"
+        },
+        {
+            "timestamp": "2024-08-16T08:48:44.930",
+            "log_type": "IMAGE",
+            "camera": "camera_1",
+            "image_ts": 1723798124.6701868,
+            "image_type": "rgb8",
+            "image_file_path": "logging/logged_images/camera_1_2024-08-16.tar.gz/camera_1_2024-08-16T08:48:44.930_rgb8.bmp",
+            "location": [
+                -3.364477433560043,
+                36.63540214813924
+            ],
+            "aruco_detected": 987,
+            "name": "camera_1_2024-08-16T08:48:44.930_rgb8.bmp"
+        }
+    ]
+}
